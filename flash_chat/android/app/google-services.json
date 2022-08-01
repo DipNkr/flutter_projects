@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "649360803286",
+    "project_id": "flash-chat-9eba1",
+    "storage_bucket": "flash-chat-9eba1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649360803286:android:a970f47ac3a4d6d2311077",
+        "android_client_info": {
+          "package_name": "dipankar.com.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649360803286-els45fqrtn7jmsc6sfc52tc5tl5hl95b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvVbc7g2f97QYQguy4ZEDztSagmTPw3lY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649360803286-els45fqrtn7jmsc6sfc52tc5tl5hl95b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
